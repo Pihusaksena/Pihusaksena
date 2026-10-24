@@ -151,3 +151,9 @@ I'm interested in connecting with developers, participating in hackathons, and e
 **“Learn consistently. Build meaningfully. Improve every day.”**
 
 </div>
+
+
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Pihusaksena/Pihusaksena/output/github-contribution-grid-snake.svg)
